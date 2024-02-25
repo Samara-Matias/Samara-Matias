@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1536"
+   height="768"
+   viewBox="0 0 1536 768"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="bannerReadMe.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#16161d"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.53776042"
+     inkscape:cx="731.73849"
+     inkscape:cy="384"
+     inkscape:window-width="1350"
+     inkscape:window-height="729"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:0.29;fill:#d8d8ff;fill-opacity:1;fill-rule:evenodd;stroke:#000080;stroke-width:1.04483;stroke-opacity:0.890151"
+       d="M 1358.7442,5.4961844 C 1334.1304,14.223666 1024.5651,204.05225 913.32034,304.78643 743.34452,486.0336 662.37657,463.28234 376.49286,587.13085 177.00039,706.41976 35.528869,759.76729 -44.629222,773.56705 495.59121,766.70821 995.50281,750.75969 1535.7232,748.96381 l 2.1021,-747.0930377 z"
+       id="path12"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="opacity:0.922559;fill:#667b97;fill-opacity:1;fill-rule:evenodd;stroke:#000080;stroke-width:0.99741;stroke-opacity:0.890151"
+       d="M 1378.3984,0.0322123 C 1356.3155,8.829385 1126.7726,93.740644 1063.5173,208.79214 972.56035,463.26193 740.43491,437.75996 601.87461,532.65153 340.87089,747.79178 178.0447,759.54434 107.87475,775.44081 L 1534.15,769.86207 1536,-3.7217511 Z"
+       id="path11"
+       sodipodi:nodetypes="ccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:103.447px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;text-anchor:middle;opacity:1;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#fcfcff;stroke-width:1.07757;stroke-opacity:1"
+       x="419.42892"
+       y="245.02434"
+       id="text12"
+       transform="scale(0.99859916,1.0014028)"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         x="419.42892"
+         y="245.02434"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:103.447px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#f9f9f9;stroke-width:1.07757">Samara Matias</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:Monocraft;-inkscape-font-specification:Monocraft;text-align:center;text-anchor:middle;opacity:1;fill:#c5c3ff;fill-opacity:1;fill-rule:evenodd;stroke:#c5c3ff;stroke-linecap:round;stroke-opacity:0"
+       x="483.48666"
+       y="334.72156"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         x="483.48666"
+         y="334.72156">&lt;/Future Dev&gt;</tspan></text>
+  </g>
+</svg>
