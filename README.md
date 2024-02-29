@@ -3,13 +3,13 @@
 ## Welcome to my github profile 😄
 
 #### 🌟 I'm a middle school student and I'm learning programming. 🌟
-- ◼️ What I want to be in the future? **A Web and Mobile apps developer**.
+- ◼️ What do I want to be in the future? **A Web and Mobile apps developer**.
 ---
-- 👽 In this profile you'll be able to see my evolution in programming. Check it out!
+- 👽 In this profile you'll be able to see my development in programming. Check it out!
 ---
 <!-- https://gprm.itsvg.in/ -->
 <!-- https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file -->
-### 👉 Which markup, database and programming languages I'm learning at this point?
+### 👉 Which markup, database and programming languages I'm learning at this point.
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -17,7 +17,7 @@
   ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-### 👉 Programming languages that I been in touch? (I decided to stop studying them)
+### 👉 Programming languages that I've been in touch if:(I decided to stop studying them)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 - (maybe I'll get back studying python in future)
@@ -40,13 +40,13 @@
    ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
    
 ---
-### 👉 Where I host my sites?
+### 👉 Where do I host my sites?
    ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
    ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
    ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
    
 ---
-### 👉 Which plataforms I use/used to study/practice programming?
+### 👉 Which plataforms I use/used to study/practice programming.
    ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
    ![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
    ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
