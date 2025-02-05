@@ -1,4 +1,3 @@
-![SamaraMatias!](./bannerReadMe.svg)
 # Hi! I'm Samara 👋
 ## Welcome to my github profile 😄
 
